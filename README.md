@@ -11,3 +11,17 @@ In this course, you’ll learn how to apply automation to manage fleets of compu
 We'll start by looking into an automation technique called configuration management, which lets you manage the configuration of our computers at scale. Specifically, you'll learn how to use Puppet, the current industry standard for configuration management. We'll look at some simple examples, and then see how we can apply the same concepts to more complex cases. You’ll be a Puppet-master in no time!
 
 Later on, you'll expand your automation skills by understanding how to use the Cloud to help scale your infrastructure. You'll check out some best practices for handling hundreds of virtual machines running in the Cloud and troubleshooting them when things don't go according to plan.
+
+## Step-by-Step procedure to download code
+
+* Navigate to the `<>Code` tab.
+
+* Click on the `Code` button on the right. A dropdown should appear.
+
+* In the `Clone` menu, under the `HTTPS` tab, click on `Download ZIP`
+
+This simplest process is to Download ZIP.
+
+## Creator 
+
+* [Salim Ọlánrewájú Oyinlọlá](https://mobile.twitter.com/SalimOpines)
